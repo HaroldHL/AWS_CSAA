@@ -165,7 +165,7 @@ Traditional IT environments
   * Once locked, the policy can no longer be changed.
 * **Data Retrieval**
   * retrieve up to 5% of your data stored in Amazon Glacier for free each month
-* \*\*Amazon Glacier versus Amazon Simple Storage Service \(Amazon S3\)\*\*
+* **Amazon Glacier versus Amazon Simple Storage Service \(Amazon S3\)**
   * Amazon Glacier supports **40TB** archives _vs_ **5TB** objects in Amazon S3
   * Amazon Glacier are identified by system-generated archive IDs _vs_ S3  “friendly” key names
   * Amazon Glacier archives are automatically encrypted _vs_ S3 optional
