@@ -6,4 +6,5 @@
 * [Chapter 5: CloudWatch&ELB](chapter5-cloudwatch-and-elb.md)
 * [Chapter 6: IAM](chapter-6-iam.md)
 * [Chapter 7: Databases and AWS](chapter-7-databases-and-aws.md)
+* [Chapter 8： SQS, SWF, and SNS](chapter-8-sqs-swf-and-sns.md)
 
