@@ -7,4 +7,5 @@
 * [Chapter 6: IAM](chapter-6-iam.md)
 * [Chapter 7: Databases and AWS](chapter-7-databases-and-aws.md)
 * [Chapter 8： SQS, SWF, and SNS](chapter-8-sqs-swf-and-sns.md)
+* [Chapter 9: DNS&Route 53](chapter-9-dns-and-route-53.md)
 
