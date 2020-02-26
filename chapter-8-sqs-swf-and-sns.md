@@ -1,4 +1,4 @@
-# Chapter 8： SQS, SWF, and SNS
+# Chapter 8: SQS, SWF, and SNS
 
 * **Amazon Simple Queue Service \(Amazon SQS\)**
 
