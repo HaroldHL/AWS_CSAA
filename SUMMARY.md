@@ -8,4 +8,5 @@
 * [Chapter 7: Databases and AWS](chapter-7-databases-and-aws.md)
 * [Chapter 8： SQS, SWF, and SNS](chapter-8-sqs-swf-and-sns.md)
 * [Chapter 9: DNS&Route 53](chapter-9-dns-and-route-53.md)
+* [Chapter 10: ElastiCache](chapter-10-elasticache.md)
 
