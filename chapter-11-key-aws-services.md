@@ -1,4 +1,4 @@
-# Chapter 11: key AWS services
+# Chapter 11: Key AWS services
 
 
 
