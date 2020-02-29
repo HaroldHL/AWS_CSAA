@@ -4,7 +4,7 @@
 
 **Security**
 
-* Security Model\*\*
+* Security Model
 
   The shared responsibility model is the security model where AWS is responsible for the security of the underlying cloud infrastructure, and the customer is responsible for securing workloads deployed in AWS. Customers benefit from a data center and network architecture built to satisfy the requirements of AWS most security-sensitive customers. This means that customers get a resilient infrastructure, designed for high security, without the capital outlay and operational overhead of a traditional data center.
 
