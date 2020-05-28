@@ -7,5 +7,4 @@
   * S3 Delete Requests are eventually consistent/
 * Encryption
   * Key pairs are used only for the Amazon EC2 and Amazon CouldFront
-  * 
 
