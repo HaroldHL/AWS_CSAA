@@ -1,3 +1,49 @@
-### 如果你想要参加AWS Certified Solution Architect- Associate 的认证考试，这个Repo也许可以帮助到你。我从官方白皮书上整理了AWS云服务的基本概念和常考的知识点，供你参考。
+### AWS Certified Solution Architect-Associate Exam
+
+AWS cloud computing platform
+
+* Compute and Networking Services
+  * EC2
+  * Lambda
+  * Auto Scaling
+  * Elastic Load Balancing 
+  * AWS Elastic Beansalk
+  * VPC
+  * Direct Connect
+  * Route 53
+
+* Storage and Content Delivery
+  * S3
+  * Amazon Glacier
+  * EBS(provides persistent block-level storage volumes for users with EC2)
+  * storage gateway
+  * cloudfront [CDN/to speed up storage]
+
+* Database Services
+  * RDS
+  * DynamoDB(NoSQL)
+  * Redshift
+  * ElasticCache
+
+* Management Tools
+  * Amazon CloudWatch(organization can gain system wide visibility into resource utilizations)
+  * AWS CloudFormation
+  * AWS CloudTrail
+  * AWS Config
+
+* Security and Identity
+  * IAM(identity and access mangement)
+  * KMS(AWS key management services)
+  * AWS Directory Services
+  * AWS certificate Manager
+  * WAF(AWS web application firewall)
+
+* Application Services
+  * API Gateway
+  * Elastic Transcoder
+  * SNS(simple notification service)
+  * SES(simple email service)
+  * SWF(simple workflow service)
+  * SQS(simple quene service,fully managed queuing service)
 
 
