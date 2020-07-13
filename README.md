@@ -1,6 +1,5 @@
 ### AWS Certified Solution Architect-Associate Exam
 
-AWS cloud computing platform
 
 * Compute and Networking Services
   * EC2
